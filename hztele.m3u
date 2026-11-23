@@ -37,7 +37,7 @@ http://10.10.10.10:4022/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
 http://10.10.10.10:4022/rtp/233.50.201.63:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CCTV17.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888888/224/3221229276/83511377.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-17 农业农村
 http://10.10.10.10:4022/rtp/233.50.200.113:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球奇观.png" group-title="央视" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221229483/152252603.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",环球奇观
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/环球奇观.png" group-title="央视" ,环球奇观
 http://10.10.10.10:4022/rtp/233.50.201.222?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/XSFTC/MY-IPTV@main/logo/CGTN.png" group-title="国际" catchup="default" catchup-source="rtsp://115.233.40.137/TVOD/88888913/224/3221228108/10000100000000060000000002707382_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
 http://10.10.10.10:4022/rtp/233.50.201.126:5140?fcc=115.233.40.137:8027
